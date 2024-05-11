@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="javax.mail">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/activation-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/javax.mail.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/jcalendar-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/jcommon-1.0.23.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/jfreechart-1.0.19-demo.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/jfreechart-1.0.19-experimental.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/jfreechart-1.0.19-swt.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/jfreesvg-2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/junit-4.11.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/mysql-connector-java-8.0.26.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/orsoncharts-1.4-eval-nofx.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/orsonpdf-1.6-eval.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/servlet.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/bibliotecas/swtgraphics2d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jfreechart-1.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
